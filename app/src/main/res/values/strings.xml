@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ExploreNG</string>
+
+<!---ABUJA-->
+    <string name="jabi_lake_mall">Jabi lake mall</string>
+    <string name="jabi_lake_mall_details">Jabi Lake Mall is a indoor shopping center/mall located in the Jabi neighborhood of Abuja- not too far away from the Central Business District. malls. Aside from all the shops</string>
+    
+    <string name="an_Noor_Mosque">An Noor Mosque</string>
+    <string name="an_noor_mosque_details">The mosque is clean and spacious.There is the men\'s section and the female section.The mosque smell so nice due to arabian fragrance being sprayed everyday.There is sufficient car parking.They also have a guidance and counselling center available for anyone in need of counselling.</string>
+    
+    <string name="dunes">Dunes</string>
+    <string name="dunes_details">Dunes Center is Abujas most enduring upscale shopping location. mega plaza and shopping extravaganza destination for just about all of your needs.</string>
+    
+    <string name="usuma_dam">Usuma Dam</string>
+    <string name="usuma_dam_details">You can\\\\\\\'t go wrong with this place..this is nature! You can do almost everything (eat, have a date, family get-together etc)here</string>
+    
+    <string name="thought_pyramid_art_centre">Thought Pyramid Art Centre</string>
+    <string name="thought_pyramid_art_centre_details">The Thought Pyramid is a lovely Art Gallery with an aesthetically brilliant environment! It has a wide, expansive space- (over 2 floors), and a unique, sparse metal fencing around the  space with "no boundaries between art, craft, design" and how thought could "enable new ideas to be intubated and nurtured".</string>
+
+    <string name="jabi_boat_club">Jabi Boat Club</string>
+    <string name="jabi_boat_club_datails">Jabi Boat Club (JBC), is a family entertainment center designed to offer water based recreational facilities for the people of Abuja and its environs as well as tourists, reaching out to all ages and inclinations. Our state of the art water based sporting facilities makes the Jabi Lake a compelling place to visit for both families and individuals with the flair for water sports and recreation.</string>
+    
+<!---LAGOS-->
+    <string name="nike_centre_for_art_and_culture">Nike Centre For Art And Culture</string>
+    <string name="nike_centre_for_art_and_culture_details">I was at the gallery with my husband and one of my closest friends, the environment was surreal and beautiful, so many beautiful pieces and the owner was so friendly and warm! She asked where we were from and showed us some very impressive pieces.</string>
+    
+    <string name="lekki_conservation_centre">Lekki Conservation Centre</string>
+    <string name="lekki_conservation_centre_details">Well managed, inspiring and the longest canopy walk in the whole of Africa! Fun place to go and all the monkeys are friendly</string>
+    
+    <string name="freedom_park">Freedom Park</string>
+    <string name="freedom_park_details">It is now been known as the place to have cultural and artistic events/shows of note. It is noteworthy that the former prison has been transformed into a tourist attraction. Be vigilant when you come outside especially at night.</string>
+    
+    <string name="the_cathedral">The Cathedral</string>
+    <string name="the_cathedral_details">This building has been around for as long as i can remember, since 1970 at least. Its gotten a new coat of paint which makes it stand out in the area. Located in the centre of Lagos Island its home to prominent lagos politicians who attend service there.</string>
+    
+    <string name="iga_idungaran">Iga Idungaran</string>
+    <string name="iga_idungaran_details">Iga Odungaran is the palace of the paramount ruler of lagos Oba Rilwan Akiolu, its a historical landmark in the city of lagos, it is situated in Idumota area of isale eko(lagos island)Area boys can be seen collecting unofficial parking toll around the place, just tip them like 200 to 300 naira and they will safeguard your car until you are back, i will recommend it to all tourists</string>
+    
+    <string name="national_arts_theatre">National Arts Theatre</string>
+    <string name="national_arts_theatre_details">The National Art Theatre is one of the historical tour destination in Lagos. It is an ideal tourist destination for Private and Group tours. It is educative for the children and it is a place of history and an architectural master piece.</string>
+    
+<!---KADUNA-->
+    <string name="kajuru_castle">Kajuru Castle</string>
+    <string name="kajuru_castle_details">Wow the concept of Kajuru castle is one that allows you and yours become princesses and princes for a some hours, a day or a weekend - traveling back in time when castles were it.</string>
+    
+    <string name="gen._hassan_U._katsina_house">Gen. Hassan U. Katsina House</string>
+    <string name="gen._hassan_U._katsina_house_details">This great and beautiful place was built on the wake of independence to accommodate the Premier who however decided to stay in Ministerial quarters now called the Arewa House. Its beauty is timeless.</string>
+    
+    <string name="dupanah_world_of_beauty_spa">Dupanah World Of Beauty Spa</string>
+    <string name="dupanah_world_of_beauty_spa_details">The ambience was good and the spa had a lot of offerings. However it was pricey SMS i didn\'t get full value.</string>
+    
+    <string name="fifth_chukker_polo_and_resort">Fifth Chukker Polo and Resort</string>
+    <string name="fifth_chukker_polo_and_resort_details">I didn’t actually stay here. I took a tour and was impressed. The villas and huts are spacious, clean and feels like luxury.</string>
+
+<!--STATES-->
+    <string name="kaduna">Kaduna</string>
+    <string name="Abuja">Abuja</string>
+    <string name="Lagos">Lagos</string>
+
+
+    <string name="states">States</string>
+    <string name="places">Places</string>
+</resources>
